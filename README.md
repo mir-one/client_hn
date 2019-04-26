@@ -7,12 +7,11 @@
   <img src="https://github.com/mir-one/client_hn/blob/master/hn.png">
 </p>
 
-* Загрузите и распакуйте zip в любой каталог
-* Перейдите в каталог **client_tn**
-* Откройте **index.html** в браузере.
-* Начните использовать Client!
+* Download and unzip to any directory
+* Open folder **client_hn**
+* **index.html** .
 </br></br>
 
-**_Имейте в виду, что в Client используется локальное хранилище вашего браузера для надежного хранения данных ваших учетных записей. Локальное хранилище браузера привязано к URL-адресу страницы, поэтому в этом случае это будет путь к index.html. Это означает, что если вы загрузите следующую версию Client, убедитесь, что вы распаковываете архив в каталог предыдущей версии. В противном случае путь к index.html изменится, и вы не сможете просмотреть свои сохраненные учетные записи._**
+**_Keep in mind that Client uses the local storage of your browser to store your account data securely. The browser's local storage is bound to the URL of the page, so in this case it will be the path to index.html. This means that if you download the next version of Client, make sure that you unpack the archive into the directory of the previous version. Otherwise, the path to index.html will change and you will not be able to view your saved accounts.._**
 
 :octocat: [@inozemtsev-roman](https://github.com/inozemtsev-roman)
