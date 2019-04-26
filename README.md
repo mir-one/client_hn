@@ -1,6 +1,6 @@
 # Hellenic Node Client
 
-[**Client**](https://mir.one/hellenicnode) | [**Website Hellenoc Node**](https://www.hellenicnode.eu/) | [**Facebook**](https://www.facebook.com/Hellenic.Node/) | [**Twitter**](https://twitter.com/Hellenic_Node) | [**Telegram**](https://t.me/hellenic_node) | [**Asset ID**](http://statistics.turtlenetwork.eu/assets/3GvqjyJFBe1fpiYnGsmiZ1YJTkYiRktQ86M2KMzcTb2s)
+[**Client**](https://mir.one/hellenicnode) | [**Website Hellenic Node**](https://www.hellenicnode.eu/) | [**Facebook**](https://www.facebook.com/Hellenic.Node/) | [**Twitter**](https://twitter.com/Hellenic_Node) | [**Telegram**](https://t.me/hellenic_node) | [**Asset ID**](http://statistics.turtlenetwork.eu/assets/3GvqjyJFBe1fpiYnGsmiZ1YJTkYiRktQ86M2KMzcTb2s)
 
 </br>
 <p align="center">
